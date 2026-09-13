@@ -9,7 +9,7 @@
 
 > *慢慢写，好好生活。*
 
-白天写代码，晚上折腾服务器。在 [**rnadow.top**](https://rnadow.top) 记录**技术笔记**、踩坑经验与生活随想——以一个不慌不快的速度。
+白天当牛马，晚上折腾代码。在 [**rnadow.top**](https://rnadow.top) 记录**技术笔记**、踩坑经验与生活随想——以一个不慌不快的速度。
 
 [![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-rnadow.top-B4623D?style=flat-square&labelColor=9C5130)](https://rnadow.top)
 [![RSS](https://img.shields.io/badge/RSS-%E5%85%A8%E6%96%87%E8%BE%93%E5%87%BA-B4623D?style=flat-square&labelColor=9C5130)](https://rnadow.top/feed.xml)
